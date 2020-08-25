@@ -1,0 +1,27 @@
+.container{
+	text-align: center;
+}
+
+#field {
+	width: 320px;
+	height: 320px;
+	box-sizing: content-box;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+.chess-block {
+	width: 40px;
+	height: 40px;
+	float: left;
+}
+.bg-black {
+	background: grey;
+}
+.active {
+	background-color: orange;
+	background-size: contain;
+}
+.green {
+	background-color: green;
+
+}
